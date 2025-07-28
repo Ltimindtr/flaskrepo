@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def counter():
-    return 'Hello flask!!!'
+    return 'Hello Python!!!'
 
 
 if __name__ == '__main__':
